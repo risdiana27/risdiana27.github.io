@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #737373;
+  color: #0078ff;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -60,7 +60,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #737373;
+  box-shadow: 0 0 0 4px #cde1f8;
 }
 
 .display-5 {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #E8E8E8;
+  background-color: #0078ff;
 }
 
 .overlay-mf {
@@ -160,7 +160,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #737373;
+  background-color: #0078ff;
   margin: 0 auto;
 }
 
@@ -179,7 +179,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #737373;
+  background-color: #0078ff;
   width: 100px;
   bottom: -12px;
 }
@@ -216,14 +216,14 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #737373;
+  box-shadow: 0 0 0 3px #0078ff;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #e8e8e8;
-  color: #000;
-  box-shadow: 0 0 0 3px #737373;
+  background-color: #0078ff;
+  color: #fff;
+  box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
 }
 
@@ -246,7 +246,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #737373;
+  color: #0078ff;
   margin-right: 10px;
 }
 
@@ -326,7 +326,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #737373;
+  background: #0078ff;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -475,32 +475,32 @@ a:hover {
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #000;
+  background-color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #737373;
+  background-color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #737373;
+  color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #737373;
+  color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #fff;
+  color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -689,7 +689,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #e8e8e8;
+  background-color: #cde1f8;
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
@@ -697,7 +697,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #737373;
+  background-color: #0078ff;
 }
 
 /*======================================
@@ -1150,15 +1150,15 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #e8e8e8;
-  color: #000;
+  background-color: #0062d3;
+  color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #737373;
+  background-color: #0078ff;
   color: #fff;
-  border-color: #e8e8e8;
+  border-color: #cde1f8;
 }
 
 .button-big {
@@ -1168,10 +1168,6 @@ footer .credits a {
 
 .button-rouded {
   border-radius: 5rem;
-  padding: 10px 130px;
-  position: center;
-  margin-top: 125px;
-  margin-left: 30px;
 }
 
 .btn-lg {
