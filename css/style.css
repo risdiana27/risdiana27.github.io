@@ -1158,7 +1158,8 @@ footer .credits a {
 .button-a {
   background-color: #737373;
   color: #fff;
-  border-color: #e8e8e8;
+  font-weight: bold;
+  border: 3px solid #e8e8e8;
 }
 
 .button-big {
