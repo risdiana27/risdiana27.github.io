@@ -1160,6 +1160,7 @@ footer .credits a {
   color: #000;
   font-weight: bold;
   border: 3px solid #e8e8e8;
+  margin-top: 100px;
 }
 
 .button-big {
@@ -1176,6 +1177,7 @@ footer .credits a {
   font-size: 1.25rem;
   line-height: 1.5;
   border-radius: .3rem;
+  
 }
 
 @media (min-width: 577px) {
